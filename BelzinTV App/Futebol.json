@@ -1,0 +1,201 @@
+{
+    "apps": [
+      {
+        "status": 1,
+        "inter_activity1": "no",
+        "UserAgent_web": "no",
+        "Value_UserAgent_web": "Mozilla/5.0 (Windows NT 10.0; Android 8.0.0)",
+        "share_rate_url": "https://play.google.com/store/apps/details?id=",
+        "redirect_url": "https://play.google.com/store/apps/details?id=",
+        "enable_rtl_mode": false,
+        "enable_exit_dialog": true,
+        "enable_vpn_access": false,
+        "enable_dark_mode_as_default_theme": false,
+        "landscape_mode_as_default_player_orientation": false
+      }
+    ],
+    "ads": [
+      {
+        "ad_status": 1,
+        "main_ads": "unity",
+        "backup_ads": "none",
+        "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+        "ad_manager_banner_unit_id": "/6499/example/banner",
+        "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+        "ad_manager_native_unit_id": "/6499/example/native",
+        "ad_manager_app_open_unit_id": "/6499/example/app-open",
+        "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+        "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+        "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+        "startapp_app_id": "209473715",
+        "unity_game_id": "5829508",
+        "unity_banner_placement_id": "Banner_Android",
+        "unity_interstitial_placement_id": "Interstitial_Android",
+        "applovin_banner_unit_id": "0",
+        "applovin_interstitial_unit_id": "0",
+        "applovin_native_manual_unit_id": "0",
+        "applovin_open_ad_unit_id": "0",
+        "applovin_banner_zone_id": "0",
+        "applovin_interstitial_zone_id": "0",
+        "ironsource_app_key": "85460dcd",
+        "ironsource_banner_id": "DefaultBanner",
+        "ironsource_interstitial_id": "DefaultInterstitial",
+        "wortise_app_key": "c4da0bec-725e-49c1-b48c-c37faa61cd06",
+        "wortise_banner_unit_id": "e7d36f54-9dc0-40a3-adaf-7e820454a747",
+        "wortise_interstitial_unit_id": "0",
+        "wortise_native_unit_id": "9734f2ef-145f-4b3c-a57e-37aa4e4b86ca",
+        "wortise_app_open_ad_unit_id": "c6ce4097-f746-47b9-a900-236285d2ed82",
+        "bigo_app_id": "10918378",
+        "bigo_banner_unit_id": "10918378-10916912",
+        "bigo_interstitial_unit_id": "10918378-10665810",
+        "bigo_native_unit_id": "10918378-10676145",
+        "interstitial_ad_interval": 3,
+        "native_ad_index": 2
+      }
+    ],
+    "channels": [
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      {
+        "title": "Al-Hilal X Gwangju",
+        "category": "Liga dos Campeões AFC - 13H30",
+        "image": "https://i.ibb.co/m585WGc/Jo47.png",
+        "source1": "<iframe src='https://grandebibo.com/MINO_WB25/es4.html'></iframe>",
+        "source2": "https://getcdn.nowonline.com.br/Content/Channel/SPOFSTHD/dsc4/manifest.mpd",
+        "source3": "",
+        "referer1": "",
+        "referer2": "https://www.clarotvmais.com.br/",
+        "referer3": "",
+        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+      },
+      {
+        "title": "Stuttgart X Heidenheim",
+        "category": "Alemão - 15H30",
+        "image": "https://i.ibb.co/m585WGc/Jo47.png",
+        "source1": "https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/xjjwlsad4u/out/v1/bd0d120a5bd14d278f32c89735a7ffc5/cenc.mpd?ck=NTNhMzY5NTIzMjE5YzIzMDI5OWFhZmIyMjNkNjIxNDc6ZTg5ODUwOTk4M2JiZjQ5MThiZDE4ODMxNjZjMDU1ZjQ=",
+        "source2": "https://getcdn.nowonline.com.br/Content/Channel/SPOSPTHD/dsc4/manifest.mpd",
+        "source3": "",
+        "referer1": "",
+        "referer2": "https://www.clarotvmais.com.br/",
+        "referer3": "",
+        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+      },
+      {
+        "title": "PSG X Nice",
+        "category": "Francês - 15H45",
+        "image": "https://i.ibb.co/m585WGc/Jo47.png",
+        "source1": "https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd?ck=MzQ0NzVlZGFiOTkxYWQ1ZTkyNTQ4YWViZDcxMDQxMGE6NTAxYjIwOWNjY2QzMjNhYzAwYmY1YWMxNWI0MDZjYjQ=",
+        "source2": "<iframe src='https://la12hd.com/vivo/canal.php?stream=sporttv4'></iframe>",
+        "source3": "",
+        "referer1": "",
+        "referer2": "",
+        "referer3": "",
+        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+      },
+      {
+        "title": "Stoke City X Sheffield Utd",
+        "category": "Inglês 2 - 16H00",
+        "image": "https://i.ibb.co/m585WGc/Jo47.png",
+        "source1": "<iframe src='https://grandebibo.com/MINO_WB25/es4.html'></iframe>",
+        "source2": "https://getcdn.nowonline.com.br/Content/Channel/SPOFSTHD/dsc4/manifest.mpd",
+        "source3": "",
+        "referer1": "",
+        "referer2": "https://www.clarotvmais.com.br/",
+        "referer3": "",
+        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+      },
+      {
+        "title": "Famalicão X Braga",
+        "category": "Português - 16H30",
+        "image": "https://i.ibb.co/m585WGc/Jo47.png",
+        "source1": "<iframe src='https://la12hd.com/vivo/canal.php?stream=sporttv1'></iframe>",
+        "source2": "",
+        "source3": "",
+        "referer1": "",
+        "referer2": "",
+        "referer3": "",
+        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+      },
+      {
+        "title": "Criciúma X Remo",
+        "category": "Série B - 19H00",
+        "image": "https://i.ibb.co/m585WGc/Jo47.png",
+        "source1": "<iframe src='https://grandebibo.com/MINO_WB25/es1.html'></iframe>",
+        "source2": "https://getcdn.nowonline.com.br/Content/Channel/SPOESBHD/dsc4/manifest.mpd",
+        "source3": "",
+        "referer1": "",
+        "referer2": "https://www.clarotvmais.com.br/",
+        "referer3": "",
+        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+      },
+      {
+        "title": "Vila Nova X Chapecoense",
+        "category": "Série B - 21H00",
+        "image": "https://i.ibb.co/m585WGc/Jo47.png",
+        "source1": "",
+        "source2": "",
+        "source3": "",
+        "referer1": "https://links.futemais.net/",
+        "referer2": "",
+        "referer3": "",
+        "user_agent1": "meus.favoritos/9.8 (Linux;Android 9) AndroidXMedia3/1.1.1",
+        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+      }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    ]
+  }
