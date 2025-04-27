@@ -1,11 +1,11 @@
 {
     "apps": [
       {
-        "versao": "1",
+        "versao": "2",
         "googleplay": "sim",
         "site": "sim",
-        "linkapk": "https://futemax.cfd/",
-        "novidades" : "-Melhoria velocidade,- Tela Preta"
+        "linkapk": "https://ebertmendes.com.br/",
+        "novidades" : "-Fiz um app melhor"
       }
     ]
   }
