@@ -1,11 +1,11 @@
 {
-    "apps": [
-      {
-        "versao": "3",
-        "googleplay": "sim",
-        "site": "sim",
-        "linkapk": "https://ebertmendes.com.br/",
-        "novidades" : "-Fiz um app melhor"
-      }
-    ]
-  }
+  "apps": [
+    {
+      "versao": "10",
+      "googleplay": "nao",
+      "site": "sim",
+      "linkapk": "https://encurtador.com.br/Vhfuy",
+      "novidades" : "-Melhoria velocidade,- Tela Preta"
+    }
+  ]
+}
