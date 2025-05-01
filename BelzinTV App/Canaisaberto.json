@@ -240,17 +240,16 @@
         ],
         "id_canal": null
     },
-    "feed_dialog": {
+    " "feed_dialog": {
         "status": true,
         "profile_name": "ExploudDeveloper",
-        "profile_photo": "https:\/\/i.imgur.com\/NXRe6hN.jpg",
-        "message": "Estamos cientes de que alguns canais est\u00e3o temporariamente indispon\u00edveis e j\u00e1 estamos trabalhando para atualizar as fontes o mais breve poss\u00edvel. Agradecemos sua paci\u00eancia e compreens\u00e3o enquanto resolvemos isso.",
+        "profile_photo": "https://i.imgur.com/NXRe6hN.jpg",
+        "message": "Belzinhi mandou informar que estamos cientes de que alguns canais estão temporariamente indisponíveis e já estamos trabalhando para atualizar as fontes o mais breve possível. Agradecemos sua paciência e compreensão enquanto resolvemos isso.",
         "image": "",
         "link": "",
-        "createdAt": 1746072968,
+        "createdAt": 1714828800,  // Timestamp para 01/05/2024 00:00:00
         "id": 14
     },
-    "epg_status": {
-        "status": true
+    "show_on_startup": true
     }
 }
