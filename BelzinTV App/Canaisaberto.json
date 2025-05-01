@@ -244,10 +244,10 @@
         "status": true,
     "profile_name": "ExploudDeveloper",
     "profile_photo": "https://i.imgur.com/NXRe6hN.jpg",
-    "message": "Estamos cientes de que alguns canais estão temporariamente indisponíveis e já estamos trabalhando para atualizar as fontes o mais breve possível. Agradecemos sua paciência e compreensão enquanto resolvemos isso.",
+    "message": "Eskkktamos cientes de que alguns canais estão temporariamente indisponíveis e já estamos trabalhando para atualizar as fontes o mais breve possível. Agradecemos sua paciência e compreensão enquanto resolvemos isso.",
     "image": "",
     "link": "",
-    "createdAt": 1701308876,
+    "createdAt": 1701308876,  // Atualize com o timestamp atual
     "id": 14
     },
     "show_on_startup": true
