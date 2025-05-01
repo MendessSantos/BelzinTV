@@ -1,0 +1,256 @@
+{
+    "keys_data": {
+        "keys": [
+            {
+                "kty": "oct",
+                "k": "biu4-kS-G2K5xLu4D27coQ",
+                "kid": "V5FsqB8pQ-OhoHwLmOFS0A"
+            },
+            {
+                "kty": "oct",
+                "k": "er5VCK7MVgax8rZGEQFQiQ",
+                "kid": "8-qvvkI0fd22kdRwyWqtRA"
+            },
+            {
+                "kty": "oct",
+                "k": "-7_eXTGJ6w8L6Gl19unjgQ",
+                "kid": "vGY9slgTWv6DCh-HAYFkuA"
+            },
+            {
+                "kty": "oct",
+                "kid": "NEde2rmRrV6SVIrr1xBBCg",
+                "k": "UBsgnMzTI6wAv1rBW0BstA"
+            },
+            {
+                "kty": "oct",
+                "kid": "VZaAgE6dP-yoShDxVTl0hA",
+                "k": "T-3yHitMtHth9JdTYndLeA"
+            },
+            {
+                "kty": "oct",
+                "kid": "VBZEl7UFC6HmdP5bI1my3Q",
+                "k": "eM13ljfUZHiN0E-r_WzdzA"
+            },
+            {
+                "kty": "oct",
+                "kid": "TX0zMIQrNK29QL4H5qh2lw",
+                "k": "Z0Oztwp_ahNrNh2t06pWow"
+            },
+            {
+                "kty": "oct",
+                "kid": "J3Xq2LnSOiK8UbbjPHvAWw",
+                "k": "VrditSTdCcAkNNtEzHeOrw"
+            },
+            {
+                "kty": "oct",
+                "kid": "c79R7Qr_MSGnJcUEKHXLqg",
+                "k": "9zly_u09RR-JRf7S6JwLww"
+            },
+            {
+                "kty": "oct",
+                "kid": "6rv2RImBRpq0O3wfYi8QiA",
+                "k": "Sjj6og_bbWA5m-UvR8HyIQ"
+            }
+        ],
+        "type": "temporary"
+    },
+    "streams_info": [
+        {
+            "url": "http:\/\/zutufo.in\/live\/781487031\/K788a6763d\/274647.m3u8",
+            "referer": "https:\/\/explouddev.com.br\/",
+            "type": "direct",
+            "player": "ijk",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "http:\/\/zutufo.in\/live\/781487031\/K788a6763d\/121608.m3u8",
+            "referer": "https:\/\/explouddev.com.br\/",
+            "type": "direct",
+            "player": "ijk",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "https:\/\/explouddev.com.br\/api\/app\/stream.php",
+            "referer": "https:\/\/explouddev.com.br\/",
+            "type": "direct",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "https:\/\/mf.fazoeli.co.za\/get_token.php?ip=%s&channel=cnnbrasil&fonte=megaflix&return_json",
+            "referer": "https:\/\/app.megaflix.com\/",
+            "type": "token",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "mastertorrent.net",
+            "referer": "https:\/\/embedcanaistv.com\/",
+            "type": "direct",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "embedmax",
+            "referer": "https:\/\/embedmax.site\/",
+            "type": "direct",
+            "player": "ijk",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "anonstream",
+            "referer": "https:\/\/embedstream.org\/",
+            "type": "direct",
+            "player": "ijk",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "livst",
+            "referer": "https:\/\/embedstream.org\/",
+            "type": "direct",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "netcinehd.ch",
+            "referer": "https:\/\/netcinehd.ch\/",
+            "type": "getlink",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "xillia.xyz",
+            "referer": "https:\/\/explouddev.com.br",
+            "type": "direct",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "s2.canais-cdn-1.icu",
+            "referer": "https:\/\/embedtv-0.icu\/",
+            "type": "direct",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "https:\/\/mf.fazoeli.co.za",
+            "referer": "https:\/\/app.megaflix.com\/",
+            "type": "direct",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "https:\/\/mf.fazoeli.co.za\/fontes\/megaflix\/",
+            "referer": "https:\/\/app.megaflix.com\/",
+            "type": "direct",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "cl5minhatela",
+            "referer": "https:\/\/meuplayeronlinehd.com\/",
+            "type": "direct",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "servermax.shop",
+            "referer": "https:\/\/playertv.net\/",
+            "type": "direct",
+            "player": "exo",
+            "useragent": "",
+            "requestedWith": ""
+        },
+        {
+            "url": "sinal.cc",
+            "referer": "https:\/\/cineplexapp.com",
+            "type": "direct",
+            "player": "exo",
+            "useragent": "com.cineplexapp-user-agent-fix1212",
+            "requestedWith": "com.cineplexapp"
+        }
+    ],
+    "startscreen_data": [
+        {
+            "status": true,
+            "art": "https:\/\/i.imgur.com\/xS8teyR.png",
+            "arttv": "https:\/\/i.imgur.com\/0qdJG6Q.jpg",
+            "link": "https:\/\/explouddev.com.br\/maxnetiptv",
+            "id": 1
+        }
+    ],
+    "promoveiptv_data": {
+        "title": "Belzin TV Online IPTV",
+        "description": "Obtenha acesso a diversos canais, filmes e s\u00e9ries em seus dispositivos, seja SmartTV, Celular, Computador ou TV Box.\n \nVoc\u00ea ter\u00e1: \n \n\ud83d\udcfa CANAIS SD,HD,FULL HD, 4K \n\ud83d\udcfa CANAIS ABERTO\/FECHADOS\n\ud83c\udf7f CANAIS DE FILMES E SERIES\n\ud83c\udf97\ufe0f CANAIS HBO\n\ud83c\udfad CANAIS TELECINE\n\u26bd CANAIS DE ESPORTES\n\u26bd CANAIS PREMIERE\n\ud83d\udcaa UFC \/ CANAIS COMBATE\n\ud83d\udc76 CANAIS INFANTIL\n\ud83c\udf0c DOCUMENTARIO \n\ud83d\udcfa CANAIS 24 HORAS\n\ud83d\ude4f CANAIS RELIGIOSOS\n\ud83d\udc69\u200d\ud83e\uddb0 NOVELAS\n\ud83c\udfa4 CANAIS DE NOTICIAS\n\ud83d\udd1e CANAIS ADULTO\n\ud83d\udd25 E MUITO MAIS \n \nEst\u00e1 incluso tamb\u00e9m filmes e s\u00e9ries de diversos g\u00eaneros, incluindo lan\u00e7amentos. Todo o conteudo \u00e9 atualizado di\u00e1riamente. Voc\u00ea pode conhecer mais ou adquirir o acesso ao servi\u00e7o agora mesmo clicando no bot\u00e3o abaixo.",
+        "sourceActivity": "https:\/\/i.imgur.com\/Pd2QfIT.png",
+        "sourceHome": "https:\/\/i.imgur.com\/Pd2QfIT.png",
+        "actionTxt": "Entrar em contato",
+        "actionLink": "https:\/\/explouddev.com.br\/maxnetiptv"
+    },
+    "buttonstv_data": [
+        {
+            "status": true,
+            "name": "FastCine",
+            "icon": "https:\/\/explouddev.com.br\/maxnettv\/tvbuttons\/ic_home_fastcine.png",
+            "image": "https:\/\/explouddev.com.br\/maxnettv\/tvbuttons\/qrcode_fastcine.png",
+            "link": "https:\/\/explouddev.com.br\/download\/FastCine"
+        },
+        {
+            "status": true,
+            "name": "Max Net IPTV",
+            "icon": "https:\/\/explouddev.com.br\/maxnettv\/tvbuttons\/ic_home_mniptv.png",
+            "image": "https:\/\/explouddev.com.br\/maxnettv\/tvbuttons\/qrcode_mniptv.png",
+            "link": "app:\/\/promove"
+        },
+        {
+            "status": true,
+            "name": "Siga-nos",
+            "icon": "https:\/\/explouddev.com.br\/maxnettv\/tvbuttons\/ic_home_instagram.png",
+            "image": "https:\/\/explouddev.com.br\/maxnettv\/tvbuttons\/qrcode_instagram.png",
+            "link": "https:\/\/www.instagram.com\/maxnettv.oficial\/"
+        }
+    ],
+    "start_streamtv": {
+        "id": 1,
+        "status": true,
+        "name": "Canal Max",
+        "logo": "https:\/\/explouddev.com.br\/maxnettv\/logos\/mntv_fastcine0001.png",
+        "type": "live",
+        "ref": "https:\/\/embedstream.org\/",
+        "extra": "",
+        "sources": [
+            {
+                "name": "Canal Max Net",
+                "link": "https:\/\/explouddev.com.br\/maxnettv\/videos\/canalmntv.mp4"
+            }
+        ],
+        "id_canal": null
+    },
+    "feed_dialog": {
+        "status": true,
+        "profile_name": "ExploudDeveloper",
+        "profile_photo": "https:\/\/i.imgur.com\/NXRe6hN.jpg",
+        "message": "Estamos cientes de que alguns canais est\u00e3o temporariamente indispon\u00edveis e j\u00e1 estamos trabalhando para atualizar as fontes o mais breve poss\u00edvel. Agradecemos sua paci\u00eancia e compreens\u00e3o enquanto resolvemos isso.",
+        "image": "",
+        "link": "",
+        "createdAt": 1746072968,
+        "id": 14
+    },
+    "epg_status": {
+        "status": true
+    }
+}
