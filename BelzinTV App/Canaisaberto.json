@@ -194,7 +194,7 @@
         }
     ],
     "promoveiptv_data": {
-        "title": "Belzin TV Online IPTV",
+        "title": "Conhe\u00e7a a Max Net IPTV",
         "description": "Obtenha acesso a diversos canais, filmes e s\u00e9ries em seus dispositivos, seja SmartTV, Celular, Computador ou TV Box.\n \nVoc\u00ea ter\u00e1: \n \n\ud83d\udcfa CANAIS SD,HD,FULL HD, 4K \n\ud83d\udcfa CANAIS ABERTO\/FECHADOS\n\ud83c\udf7f CANAIS DE FILMES E SERIES\n\ud83c\udf97\ufe0f CANAIS HBO\n\ud83c\udfad CANAIS TELECINE\n\u26bd CANAIS DE ESPORTES\n\u26bd CANAIS PREMIERE\n\ud83d\udcaa UFC \/ CANAIS COMBATE\n\ud83d\udc76 CANAIS INFANTIL\n\ud83c\udf0c DOCUMENTARIO \n\ud83d\udcfa CANAIS 24 HORAS\n\ud83d\ude4f CANAIS RELIGIOSOS\n\ud83d\udc69\u200d\ud83e\uddb0 NOVELAS\n\ud83c\udfa4 CANAIS DE NOTICIAS\n\ud83d\udd1e CANAIS ADULTO\n\ud83d\udd25 E MUITO MAIS \n \nEst\u00e1 incluso tamb\u00e9m filmes e s\u00e9ries de diversos g\u00eaneros, incluindo lan\u00e7amentos. Todo o conteudo \u00e9 atualizado di\u00e1riamente. Voc\u00ea pode conhecer mais ou adquirir o acesso ao servi\u00e7o agora mesmo clicando no bot\u00e3o abaixo.",
         "sourceActivity": "https:\/\/i.imgur.com\/Pd2QfIT.png",
         "sourceHome": "https:\/\/i.imgur.com\/Pd2QfIT.png",
@@ -240,16 +240,17 @@
         ],
         "id_canal": null
     },
-    " "feed_dialog": {
+    "feed_dialog": {
         "status": true,
-    "profile_name": "ExploudDeveloper",
-    "profile_photo": "https://i.imgur.com/NXRe6hN.jpg",
-    "message": "Eskkktamos cientes de que alguns canais estão temporariamente indisponíveis e já estamos trabalhando para atualizar as fontes o mais breve possível. Agradecemos sua paciência e compreensão enquanto resolvemos isso.",
-    "image": "",
-    "link": "",
-    "createdAt": 1701308876,  // Atualize com o timestamp atual
-    "id": 14
+        "profile_name": "ExploudDeveloper",
+        "profile_photo": "https:\/\/i.imgur.com\/NXRe6hN.jpg",
+        "message": "Belzin está Estamos cientes de que alguns canais est\u00e3o temporariamente indispon\u00edveis e j\u00e1 estamos trabalhando para atualizar as fontes o mais breve poss\u00edvel. Agradecemos sua paci\u00eancia e compreens\u00e3o enquanto resolvemos isso.",
+        "image": "",
+        "link": "",
+        "createdAt": 1746072968,
+        "id": 14
     },
-    "show_on_startup": true
+    "epg_status": {
+        "status": true
     }
 }
