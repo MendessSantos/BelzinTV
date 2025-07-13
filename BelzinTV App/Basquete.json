@@ -76,13 +76,13 @@
   
   
       {
-        "title": "ss",
+        "title": "ses",
         "category": "Liga dos Campeões AFC - 13H30",
         "image": "https://i.ibb.co/m585WGc/Jo47.png",
-        "source1": "https://www.youtube.com/embed/ABVQXgr2LW4?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=pt&enablejsapi=1&origin=https%3A%2F%2Fweb.moobitv.com.br&widgetid=1&forigin=https%3A%2F%2Fweb.moobitv.com.br%2Fvideos%2F05-sbt%2F&aoriginsup=1&gporigin=https%3A%2F%2Fweb.moobitv.com.br%2Fcanais-de-tv%2F&vf=6",
+        "source1": "https://youtu.be/ABVQXgr2LW4",
         "source2": "https://getcdn.nowonline.com.br/Content/Channel/SPOFSTHD/dsc4/manifest.mpd",
         "source3": "",
-        "referer1": "",
+        "referer1": "https://youtu.be",
         "referer2": "https://www.clarotvmais.com.br/",
         "referer3": "",
         "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
