@@ -1,0 +1,132 @@
+{
+    "apps": [
+      {
+        "status": 1,
+        "inter_activity1": "no",
+        "UserAgent_web": "no",
+        "Value_UserAgent_web": "Mozilla/5.0 (Windows NT 10.0; Android 8.0.0)",
+        "share_rate_url": "https://play.google.com/store/apps/details?id=",
+        "redirect_url": "https://play.google.com/store/apps/details?id=",
+        "enable_rtl_mode": false,
+        "enable_exit_dialog": true,
+        "enable_vpn_access": false,
+        "enable_dark_mode_as_default_theme": false,
+        "landscape_mode_as_default_player_orientation": false
+      }
+    ],
+    "ads": [
+      {
+        "ad_status": 1,
+        "main_ads": "unity",
+        "backup_ads": "none",
+        "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+        "ad_manager_banner_unit_id": "/6499/example/banner",
+        "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+        "ad_manager_native_unit_id": "/6499/example/native",
+        "ad_manager_app_open_unit_id": "/6499/example/app-open",
+        "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+        "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+        "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+        "startapp_app_id": "209473715",
+        "unity_game_id": "5829508",
+        "unity_banner_placement_id": "Banner_Android",
+        "unity_interstitial_placement_id": "Interstitial_Android",
+        "applovin_banner_unit_id": "0",
+        "applovin_interstitial_unit_id": "0",
+        "applovin_native_manual_unit_id": "0",
+        "applovin_open_ad_unit_id": "0",
+        "applovin_banner_zone_id": "0",
+        "applovin_interstitial_zone_id": "0",
+        "ironsource_app_key": "85460dcd",
+        "ironsource_banner_id": "DefaultBanner",
+        "ironsource_interstitial_id": "DefaultInterstitial",
+        "wortise_app_key": "c4da0bec-725e-49c1-b48c-c37faa61cd06",
+        "wortise_banner_unit_id": "e7d36f54-9dc0-40a3-adaf-7e820454a747",
+        "wortise_interstitial_unit_id": "0",
+        "wortise_native_unit_id": "9734f2ef-145f-4b3c-a57e-37aa4e4b86ca",
+        "wortise_app_open_ad_unit_id": "c6ce4097-f746-47b9-a900-236285d2ed82",
+        "bigo_app_id": "10918378",
+        "bigo_banner_unit_id": "10918378-10916912",
+        "bigo_interstitial_unit_id": "10918378-10665810",
+        "bigo_native_unit_id": "10918378-10676145",
+        "interstitial_ad_interval": 3,
+        "native_ad_index": 2
+      }
+    ],
+    "channels": [
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      {
+        "title": "Al-Hilal X Gwangju",
+        "category": "Liga dos Campeões AFC - 13H30",
+        "image": "https://i.ibb.co/m585WGc/Jo47.png",
+        "source1": "<iframe src='https://grandebibo.com/MINO_WB25/es4.html'></iframe>",
+        "source2": "https://getcdn.nowonline.com.br/Content/Channel/SPOFSTHD/dsc4/manifest.mpd",
+        "source3": "",
+        "referer1": "",
+        "referer2": "https://www.clarotvmais.com.br/",
+        "referer3": "",
+        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+      },
+      {
+        "title": "teste",
+        "category": "Alemão - 15H30",
+        "image": "https://i.ibb.co/m585WGc/Jo47.png",
+        "source1": "https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8",
+        "source2": "https://outbound-proxy-us-east1-0-glob-usercontent-client-id-1904742616.googleapis.com.pt/docs/premiereclubes/__index.m3u8?sv=66&nu3zAQc9HC3GbwJq=1752429422-pdTV%2B%2F5tfgMPAkBzncS%2B4fCcnU0XVAW%2Fgd7qva5Nyxs%3D",
+        "source3": "https://03-mcteteu.shop/secret_key/506442ce5aae244efff998fc45e30332.m3u8",
+        "referer1": "https://web.moobitv.com.br/",
+        "referer2": "https://redecanaistv.gs/",
+        "referer3": "https://embedtv-2.icu/",
+        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+      }
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    ]
+  }
