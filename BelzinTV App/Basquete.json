@@ -76,13 +76,13 @@
   
   
       {
-        "title": "GLOBO",
+        "title": "GLOBO kk",
         "category": "TESTE",
         "image": "https://i.ibb.co/m585WGc/Jo47.png",
-        "source1": "https://03-mcteteu.shop/secret_key/ff3af389d3ded0be2d36967e629ba118.m3u8",
+        "source1": "https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOMBRHD/dsc2/manifest.mpd",
         "source2": "https://lb1.embmaxtv.online/globors/index.m3u8",
         "source3": "https://03-mcteteu.shop/fontes/ozoo2/globosp.m3u8",
-        "referer1": "https://embedtv-2.icu/",
+        "referer1": "https://www.clarotvmais.com.br/",
         "referer2": "https://lb1.embmaxtv.online/globors/index.m3u8",
         "referer3": "https://venoplay.xyz/",
         "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
@@ -130,3 +130,4 @@
   
     ]
   }
+
