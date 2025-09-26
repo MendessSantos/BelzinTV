@@ -196,79 +196,7 @@
   
   
   
-  
-    ]
-        }        "source1": "<iframe src='https://grandebibo.com/MINO_WB25/es4.html'></iframe>",
-        "source2": "https://getcdn.nowonline.com.br/Content/Channel/SPOFSTHD/dsc4/manifest.mpd",
-        "source3": "",
-        "referer1": "",
-        "referer2": "https://www.clarotvmais.com.br/",
-        "referer3": "",
-        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-      },
-      {
-        "title": "Famalicão X Braga",
-        "category": "Português - 16H30",
-        "image": "https://i.ibb.co/m585WGc/Jo47.png",
-        "source1": "<iframe src='https://la12hd.com/vivo/canal.php?stream=sporttv1'></iframe>",
-        "source2": "",
-        "source3": "",
-        "referer1": "",
-        "referer2": "",
-        "referer3": "",
-        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-      },
-      {
-        "title": "Criciúma X Remo",
-        "category": "Série B - 19H00",
-        "image": "https://i.ibb.co/m585WGc/Jo47.png",
-        "source1": "<iframe src='https://grandebibo.com/MINO_WB25/es1.html'></iframe>",
-        "source2": "https://getcdn.nowonline.com.br/Content/Channel/SPOESBHD/dsc4/manifest.mpd",
-        "source3": "",
-        "referer1": "",
-        "referer2": "https://www.clarotvmais.com.br/",
-        "referer3": "",
-        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-      },
-      {
-        "title": "Vila Nova X Chapecoense",
-        "category": "Série B - 21H00",
-        "image": "https://i.ibb.co/m585WGc/Jo47.png",
-        "source1": "",
-        "source2": "",
-        "source3": "",
-        "referer1": "https://links.futemais.net/",
-        "referer2": "",
-        "referer3": "",
-        "user_agent1": "meus.favoritos/9.8 (Linux;Android 9) AndroidXMedia3/1.1.1",
-        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-      }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-      
-  
-  
-  
-  
-  
-  
-  
+    
   
   
   
@@ -276,3 +204,4 @@
   
     ]
 }
+
